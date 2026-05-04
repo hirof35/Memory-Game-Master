@@ -68,3 +68,6 @@ Bash
 [ ] BGMのON/OFF切り替え機能。
 
 [ ] ネットワーク対戦モードの実装。
+
+<img width="538" height="675" alt="スクリーンショット 2026-05-04 161937" src="https://github.com/user-attachments/assets/7e4ba6a5-9f4c-4aeb-8e32-772506bc52fb" />
+
